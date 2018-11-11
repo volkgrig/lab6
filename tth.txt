@@ -1,0 +1,10 @@
+8
+           model            city         highway        combined        maxspeed           power
+           Tesla             4.9             3.7             4.2             200             230
+       GLK220CDI             4.5             2.4             3.5             320             470
+             srt             2.5              26            65.5             232             125
+            hfgh             256            6256            5365             525          2525.2
+              Kr               2            12.3             2.2             198             157
+             ret            25.6            28.9            13.5             188             369
+            qwer              25              26              58              52              36
+             WEr            25.6            28.9             1.2             158             198
